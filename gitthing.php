@@ -4,6 +4,7 @@ function greeting($namn){
 }
 greeting("Emma");
 greeting("David");
+greeting("Mikael");
 greeting("someone more");
 
 ?>
